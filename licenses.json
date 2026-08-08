@@ -1,0 +1,9 @@
+{
+  "_readme": "One entry per client trial. The 'status' field is the only field the app reads: trial = normal 14-day countdown, active = fully unlocked (use after payment), revoked = locks the client's install immediately, any time. 'client' and 'created' are just notes for you — edit this file directly on GitHub, commit, and changes take effect for the client within about 6 hours (or immediately the next time they restart the app).",
+
+  "EXAMPLE-CLIENT-A1B2C3": {
+    "client": "Example Client Co. (delete this entry — it's just a sample)",
+    "status": "trial",
+    "created": "2026-08-04"
+  }
+}
