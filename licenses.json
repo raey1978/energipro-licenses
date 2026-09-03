@@ -9,5 +9,10 @@
     "client": "Weatherford (Mohamed Eltaras)",
     "status": "trial",
     "created": "2026-08-28"
+  },
+  "WEATHERFORD-HANI-72139A": {
+    "client": "Weatherford (Hani Almaimani)",
+    "status": "trial",
+    "created": "2026-09-03"
   }
 }
