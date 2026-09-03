@@ -1,8 +1,13 @@
 {
-  "_readme": "One entry per client trial. The 'status' field is the only field the app reads: trial = normal 14-day countdown, active = fully unlocked (use after payment), revoked = locks the client's install immediately, any time. 'client' and 'created' are just notes for you — edit this file directly on GitHub, commit, and changes take effect for the client within about 6 hours (or immediately the next time they restart the app).",
+  "_readme": "One entry per client trial. The 'status' field is the only field the app reads: trial = normal countdown, active = fully unlocked (use after payment), revoked = locks the client's install immediately, any time. 'client' and 'created' are just notes for you — edit this file directly on GitHub, commit, and changes take effect for the client within about 6 hours (or immediately the next time they restart the app).",
   "NESR-4F713D": {
     "client": "NESR",
     "status": "trial",
     "created": "2026-08-08"
+  },
+  "WEATHERFORD-16ED69": {
+    "client": "Weatherford (Mohamed Eltaras)",
+    "status": "trial",
+    "created": "2026-08-28"
   }
 }
